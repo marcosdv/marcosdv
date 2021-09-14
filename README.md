@@ -1,5 +1,7 @@
 ## Marcos Dias Vendramini
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcosdv&layout=compact)](https://github.com/marcosdv/github-readme-stats)
+
 ### 👨‍💼 Experiência Profissional
 
 - 👨‍🏫 <b>Professor</b>: Algoritmos e Estrutura de Dados; Programação para Dispositivos Móveis.
