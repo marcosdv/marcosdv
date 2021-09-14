@@ -1,24 +1,25 @@
-### Marcos Dias Vendramini
-
-![Badge](https://img.shields.io/badge/Marcos%20Dias%20Vendramini-Developer%20--%20Professor-red)
+## Marcos Dias Vendramini
 
 ### 👨‍💼 Experiência Profissional
 
-- 👨‍🏫 Professor: Algoritmos e Estrutura de Dados; Programação para Dispositivos Móveis.
-- 🖥️ Linguagens de Programação: Object Pascal/Delphi; C#; ASP.NET; Python; Java/Android; Swift/iOS; Flutter.
-- ☁️ Banco de Dados: SQL Server; SQLite; Firebird; Oracle.
-- 👨‍🎓 Aprendendo: Python; Inteligência Artificial.
+- 👨‍🏫 <b>Professor</b>: Algoritmos e Estrutura de Dados; Programação para Dispositivos Móveis.
+- 🖥️ <b>Linguagens de Programação</b>: Object Pascal/Delphi; C#; ASP.NET; Python; Java/Android; Swift/iOS; Flutter.
+- ☁️ <b>Banco de Dados</b>: SQL Server; SQLite; Firebird; Oracle.
+- 👨‍🎓 <b>Aprendendo</b>: Python; Inteligência Artificial.
 
 ### 👨‍🎓 Formação acadêmica
 
-- Doutorado em andamento: Inteligência Computacional - UFPR
-- Mestrado: Inteligência Computacional - UTFPR
-- Pós-Graduação: MBA em Big Data e Inteligência na Gestão de Dados - UNICIV
-- Pós-Graduação: Internet das Coisas (IOT) - UNICIV
-- Pós-Graduação: Desenvolvimento de Softwares para Web - UNIPAR
-- Graduação: Bacharel em Sistemas de Informação - UNIPAR
+- 🎓 <b>Doutorado em andamento</b>: Inteligência Computacional - UFPR
+- 🎓 <b>Mestrado</b>: Inteligência Computacional - UTFPR
+- 🎓 <b>Pós-Graduação</b>: MBA em Big Data e Inteligência na Gestão de Dados - UNICIV
+- 🎓 <b>Pós-Graduação</b>: Internet das Coisas (IOT) - UNICIV
+- 🎓 <b>Pós-Graduação</b>: Desenvolvimento de Softwares para Web - UNIPAR
+- 🎓 <b>Graduação</b>: Bacharel em Sistemas de Informação - UNIPAR
 
 ### 📫 Contato
 
-- 📧 E-mail: marcosdiasvendramini@yahoo.com.br
-- 🔗 LinkedIn: https://www.linkedin.com/in/marcosdiasvendramini/
+- 🔗 <b>LinkedIn</b>: https://www.linkedin.com/in/marcosdiasvendramini/
+- 📧 <b>E-mail</b>: marcosdiasvendramini@yahoo.com.br
+
+##
+![Badge](https://img.shields.io/badge/Marcos%20Dias%20Vendramini-Developer%20--%20Professor-red)
