@@ -7,11 +7,10 @@
 - 👨‍🏫 <b>Professor</b>: Algoritmos e Estrutura de Dados; Programação para Dispositivos Móveis.
 - 🖥️ <b>Linguagens de Programação</b>: Object Pascal/Delphi; C#; ASP.NET; Python; Java/Android; Swift/iOS; Flutter.
 - ☁️ <b>Banco de Dados</b>: SQL Server; SQLite; Firebird; Oracle.
-- 👨‍🎓 <b>Aprendendo</b>: Python; Inteligência Artificial.
+- 👨‍🎓 <b>Aprendendo</b>: TDD, Clean Architecture, Design Patterns e SOLID.
 
 ### 👨‍🎓 Formação acadêmica
 
-- 🎓 <b>Doutorado em andamento</b>: Inteligência Computacional - UFPR
 - 🎓 <b>Mestrado</b>: Inteligência Computacional - UTFPR
 - 🎓 <b>Pós-Graduação</b>: MBA em Big Data e Inteligência na Gestão de Dados - UNICIV
 - 🎓 <b>Pós-Graduação</b>: Internet das Coisas (IOT) - UNICIV
