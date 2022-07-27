@@ -6,9 +6,9 @@
 ### 👨‍💼 Experiência Profissional
 
 - 👨‍🏫 <b>Professor</b>: Algoritmos e Estrutura de Dados; Programação Avançada para Web (C# .NET); Programação para Dispositivos Móveis.
-- 🖥️ <b>Linguagens de Programação</b>: Object Pascal/Delphi; C#; .NET; Python; Java/Android; Swift/iOS; Flutter.
+- 🖥️ <b>Linguagens de Programação</b>: C#; .NET; Object Pascal/Delphi; Java/Android; Swift/iOS; Flutter.
 - ☁️ <b>Banco de Dados</b>: SQL Server; SQLite; Firebird; Oracle.
-- 👨‍🎓 <b>Aprendendo</b>: TDD, Clean Architecture, Design Patterns e SOLID.
+- 👨‍🎓 <b>Aprendendo</b>: DDD, TDD, Clean Architecture, Design Patterns e SOLID.
 
 ### 👨‍🎓 Formação acadêmica
 
