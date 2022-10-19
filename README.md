@@ -8,7 +8,7 @@
 - 👨‍🏫 <b>Professor</b>: Algoritmos e Estrutura de Dados; Programação Avançada para Web (C# .NET); Programação para Dispositivos Móveis.
 - 🖥️ <b>Linguagens de Programação</b>: C#; .NET; Object Pascal/Delphi; Java/Android; Swift/iOS; Flutter.
 - ☁️ <b>Banco de Dados</b>: SQL Server; SQLite; Firebird; Oracle.
-- 👨‍🎓 <b>Aprendendo</b>: DDD, TDD, Clean Architecture, Design Patterns e SOLID.
+- 👨‍🎓 <b>Aprendendo</b>: DDD, TDD, Clean Architecture, Cloud Computing e DevOps.
 
 ### 👨‍🎓 Formação acadêmica
 
@@ -21,6 +21,7 @@
 ### 📫 Contato
 
 - 🔗 <b>LinkedIn</b>: https://www.linkedin.com/in/marcosdiasvendramini/
+- 🎓 <b>Credly - Badges</b>: https://www.credly.com/users/marcos-dias-vendramini/badges
 - 📧 <b>E-mail</b>: marcosdiasvendramini@yahoo.com.br
 
 ##
