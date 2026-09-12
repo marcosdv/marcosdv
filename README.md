@@ -1,14 +1,12 @@
 ## Marcos Dias Vendramini
 ![Badge](https://img.shields.io/badge/Developer-Professor-red)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcosdv&layout=compact)](https://github.com/marcosdv/github-readme-stats)
-
 ### 👨‍💼 Experiência Profissional
 
 - 👨‍🏫 <b>Professor</b>: Algoritmos e Estrutura de Dados; Programação Avançada para Web (C# .NET); Programação para Dispositivos Móveis.
-- 🖥️ <b>Linguagens de Programação</b>: C#; .NET; Object Pascal/Delphi; Java/Android; Swift/iOS; Flutter.
-- ☁️ <b>Banco de Dados</b>: SQL Server; SQLite; Firebird; Oracle.
-- 👨‍🎓 <b>Aprendendo</b>: DDD, TDD, Clean Architecture, Cloud Computing e DevOps.
+- 🖥️ <b>Linguagens de Programação</b>: C#; .NET; Java; Object Pascal/Delphi; Java/Android; Swift/iOS; Flutter.
+- ☁️ <b>Banco de Dados</b>: SQL Server; SQLite; Firebird; Oracle; PostgreSQL.
+- 🤖 <b>IA</b>: IBM Watsonx Orchestrate.
 
 ### 👨‍🎓 Formação acadêmica
 
